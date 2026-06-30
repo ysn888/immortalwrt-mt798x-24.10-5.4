@@ -19,7 +19,7 @@ on:
     types: started
 
 env:
-  REPO_URL: https://github.com/AlexWhiteWolf/immortalwrt-mt798x-24.10
+  REPO_URL: https://github.com/mazige1997/immortalwrt-mt798x-24.10
   REPO_BRANCH: 2410
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
